@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Inter:wght@100..900&display=swap');
+
+*{
+    font-family: concert one;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.box {
+    border: solid 2px;
+    background-color: rgb(158, 234, 244);
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+}
+
+ul {
+    padding: 0;
+    margin: 20px;
+    list-style: number;
+}
+
+li {
+    padding: 5px;
+    font-size: 18px;
+}
+
+#add-button {
+    padding:5px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: medium;
+}
+
+#dell-button {
+    padding:5px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: medium;
+}
+
+/* body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    padding: 10px;
+}
+
+.box {
+    background-color: rgb(102, 205, 246);
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+ul {
+    padding: 0px;
+    margin: 20px 0;
+}
+
+li {
+    padding: 10px;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-left: 22px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+}
+
+button {
+    background-color: rgb(236, 224, 224);
+    border-color: whitesmoke;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 10px;
+} */
